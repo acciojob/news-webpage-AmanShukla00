@@ -4,6 +4,15 @@ body {
     margin: 0;
     padding: 0;
 }
+.all-content {
+
+.show {
+	display: flex;
+}	
+}
+.news{
+	display: 
+}
 
 .header {
     background-color: #011e29;
@@ -12,35 +21,9 @@ body {
     padding: 20px;
 }
 
-.latest-news-section {
-    background-color: white;
-    padding: 20px;
-    width: 60%;
-    margin: 20px auto;
-    border-radius: 10px;
-}
-
-.latest-news-section ul {
-    list-style-type: none;
-    padding: 0;
-}
-
-.latest-news-section li {
-    padding: 8px 0;
-    border-bottom: 1px solid #ccc;
-}
-
-.pictorial-news-section {
-    background-color: white;
-    padding: 20px;
-    width: 60%;
-    margin: 20px auto;
-    text-align: center;
-    border-radius: 10px;
-}
 
 .news-images img {
-    width: 30%;
+    width: 100%;
     margin: 10px;
     border-radius: 10px;
 }
