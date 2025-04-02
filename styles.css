@@ -5,13 +5,23 @@ body {
     padding: 0;
 }
 .all-content {
+	padding:10px;
+	margin:10px;
+	width:481%;
+	
+}
+.pic {
+	padding:10px;
+	margin:10px;
+}
 
 .show {
 	display: flex;
-}	
 }
 .news{
-	display: 
+	padding:10px;
+	margin:10px;
+	width:600%;
 }
 
 .header {
